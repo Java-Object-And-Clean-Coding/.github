@@ -8,7 +8,7 @@
 
 ### Study
 - 언어 : Java
-- 교재 : Clean Code 클린코드 - 애자일 소프트웨어 장인 정신
+- 교재 : Clean Code 클린코드 - 애자일 소프트웨어 장인 정신 -> 오브젝트 -> Effective Java
 - 모임 시간 : 매주 일요일 오후 1시 이디야 강남대치점
 
 ### Rule
